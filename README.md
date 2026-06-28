@@ -7,10 +7,29 @@
 
 ---
 
-## Overview
+# UKRAM — UK Sovereign Hybrid DRAM
 
-**UKRAM** (UK Sovereign Hybrid RAM) is an ambitious open research project to develop a next-generation memory technology that is:
+**Creator:** D Hargreaves  
+**In collaboration with advanced AI models** (Grok by xAI, Kimi, and others)
 
+*Demonstrating what’s possible when human vision meets AI capability.*
+
+---
+
+**UKRAM** is an open research initiative to build a fully sovereign UK hybrid memory technology using only domestically abundant materials.
+
+One reconfigurable cell delivers both:
+- High-performance **DDR5-compatible DRAM**
+- Ultra-efficient **neuromorphic in-memory compute**
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) — open for research, education, and commercial exploration.
+
+**Copyright © 2025 D Hargreaves**  
+All technical documentation, simulator code, and architecture were developed by D Hargreaves with collaborative support from AI systems. This work showcases the powerful potential of human-AI partnership in strategic technology development.
 - Fully sovereign (100% traceable to UK geological deposits and domestic agriculture)
 - Dual-mode: High-performance **DDR5-compatible volatile DRAM** + ultra-efficient **neuromorphic analog in-memory compute**
 - Fabricated at low temperature (<400°C) using abundant domestic materials: Cornish kaolin/silica, Yorkshire coal/biomass-derived graphene oxide (GO), Cornish tin, and UK silk fibroin
